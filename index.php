@@ -11,5 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <a href="newUser.php">Nuevo usuario</a><br>
+        <a href="login.php">Login</a><br>
     </body>
 </html>
